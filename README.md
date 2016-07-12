@@ -1,11 +1,11 @@
-##克隆项目
-git clone https://github.com/AnliHuer/express-demo.git
+介绍
+===
 
-##安装依赖包
-进入项目路径下,命令行执行 npm install
+这是一个简单的 express 程序
 
-##启动服务
+```
+npm install
 node app.js
+```
 
-##访问
-浏览器输入: localhost:3000/
+浏览器输入: http://localhost:3000/
